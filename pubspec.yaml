@@ -85,7 +85,7 @@ flutter:
         - asset: lib/fonts/sofia_pro/SofiaProMediumAz.otf
           weight: 200
         - asset: lib/fonts/sofia_pro/SofiaProSemiBoldAz.otf
-        weight: 300
+          weight: 300
         - asset: lib/fonts/sofia_pro/SofiaProBoldAz.otf
           weight: 800
   #       - asset: fonts/Schyler-Italic.ttf
